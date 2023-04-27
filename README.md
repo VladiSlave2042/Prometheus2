@@ -1,4 +1,4 @@
-# "Prometheus. Часть " "Бойко Владислав"
+# "Prometheus. Часть 2" "Бойко Владислав"
 ---
 ## Задание 1
 ![готово](https://github.com/VladiSlave2042/Prometheus2/blob/main/img/1.1.png)
